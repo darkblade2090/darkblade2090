@@ -4,7 +4,7 @@
 - 💞️ I am proficient in programming languages  like C++ and Python and JavaScript and web development technologies  HTML, CSS, Bootstrap, Node.js, Express.js and SQL.
 - 📫 Email: yashk2090@gmail.com
 
-https://github-readme-stats.vercel.app/api?username=arkblade2090&theme=tokyonight&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=darkblade2090&theme=tokyonight&show_icons=true)
 
 <!---
 darkblade2090/darkblade2090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
