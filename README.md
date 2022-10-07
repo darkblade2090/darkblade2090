@@ -15,7 +15,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning Data Structures and Algorithms and MERN Stack.
 - 👨‍ I have solved around 400+ DSA problems on various platforms.
-- 📄 &nbsp;Please have a look at my [Résumé]("https://drive.google.com/file/d/1FZ4bHLowpj-EkLFWTgf5wZi2OLlK0TJU/view?usp=sharing") for more details about me. I'm open to feedback and suggestions! 
+- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1FZ4bHLowpj-EkLFWTgf5wZi2OLlK0TJU/view?usp=sharing) for more details about me. I'm open to feedback and suggestions! 
 - :nerd_face: Always `learning new things`
 - 📫  How to reach me yashk2090@gmail.com
 
