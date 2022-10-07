@@ -7,24 +7,21 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=darkblade2090&color=0e75b6&style=plastic" alt="darkblade2090" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
 </p>
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
+- :school: I’m B. Tech Electrical Engineering student and Graduate in 2023
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :student: I’m currently learning Data Structures and Algorithms and MERN Stack.
+- 👨‍ I’m solved around 400+ DSA problems on various platforms.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing](https://drive.google.com/file/d/1FZ4bHLowpj-EkLFWTgf5wZi2OLlK0TJU/view?usp=sharing)).
 - :nerd_face: Always `learning new things`
+- 📫  How to reach me yashk2090@gmail.com
 
 <br>
 
-- 👀  I’m currently learning Data Structures and Algorithms and MERN Stack.
+- 👀  
 - 👯 I’m solved around 400+ DSA problems on various platforms.
 - 👨‍💻 I am proficient in programming languages  like C++ and Python and JavaScript and web development technologies  HTML, CSS, Bootstrap, Node.js, Express.js and SQL.
 - 📫  How to reach me yashk2090@gmail.com
