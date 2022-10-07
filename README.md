@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://github.com/darkblade2090">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darkblade2090&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkblade2090&theme=algolia&show_icons=true)"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darkblade2090&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -70,7 +70,7 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkblade2090&theme=algolia&show_icons=true)
+
 
 <!---
 darkblade2090/darkblade2090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
