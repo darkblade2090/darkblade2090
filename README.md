@@ -61,7 +61,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yash-kumar-510446193"><img src="https://img.shields.io/badge/Yash&Kumar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yash-kumar-510446193"><img src="https://img.shields.io/badge/Yash_Kumar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yashk2090@gmail.com"><img src="https://img.shields.io/badge/yashk2090@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/Dark.Blade.2090/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=whitee"/></a>
 
